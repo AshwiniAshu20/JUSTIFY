@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+div{
+    border: 2px solid black;
+    padding: 15px;
+    width: 200px;
+    height: 200px;
+    text-align: justify;
+}
